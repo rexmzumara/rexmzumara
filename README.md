@@ -2,9 +2,12 @@
 #### Design and Developer
 ![Design and Developer](https://www.torontomu.ca/content/dam/graduate/programs/computer-science/Code-Banner.jpg)
 
-I'm Rex Mzumara from South Africa, and I am into Design and Software Developement. I really enjoy learning languages and framework like React and React Native, as well as work in Wordpress. I also enjoy wireframing, ui and ux, and design in general. Fullstack developer in the works. Cloud computing enthusiast
+I'm Rex Mzumara from South Africa, and I am into Design and Software Developement. I really enjoy learning languages and framework like React and React Native, as well as work in Wordpress. I also enjoy wireframing, ui and ux, and design in general. Fullstack developer in the works. Cloud computing enthusiast.
 
-
+## Skills and Experience
+* ⚛️React 
+* 📱React Native
+* 💻HTML, CSS, JAVA, NODE.JS 
 
 Skills: JS /VUE JS / REACT / JS / HTML / CSS
 
