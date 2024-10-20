@@ -17,12 +17,7 @@ Cloud Computing Solutions: Leveraging cloud technologies for scalable applicatio
 🌱 Continuous Learning: Always exploring emerging technologies and design trends
 📊 GitHub Analytics
 <p align="center"> <a href="https://github.com/rexmzumara"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rexmzumara&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rexmzumara&layout=compact&langs_count=8&theme=dark"/> </a> </p>
-🏆 Achievements & Certifications
-🥇 Winner, South African Web Design Awards 2023
-📜 AWS Certified Solutions Architect
-🏅 Google UX Design Professional Certificate
-🎓 Bachelor of Science in Computer Science, University of Cape Town
-🎨 Design Portfolio Highlights
+
 Check out some of my featured design work:
 
 <p align="center"> <a href="https://www.behance.net/rexmzumara"><img src="https://img.shields.io/badge/-View%20on%20Behance-1769FF?style=for-the-badge&logo=behance&logoColor=white" alt="Behance"></a> <a href="https://dribbble.com/rexmzumara"><img src="https://img.shields.io/badge/-View%20on%20Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white" alt="Dribbble"></a> </p>
